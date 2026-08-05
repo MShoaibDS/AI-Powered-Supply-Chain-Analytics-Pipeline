@@ -98,14 +98,14 @@ This live workbook showcases:
 
 # **🔄 End-to-End Workflow**
 
-## **📩 Step 1 — Gmail Automation**
+## **📩 Step 1 - Gmail Automation**
 
 - Connected Gmail using OAuth 2.0
 - Automatically monitors incoming emails
 - Filters supplier reports
 - Downloads CSV attachments
 
-## **📂 Step 2 — Data Extraction**
+## **📂 Step 2 - Data Extraction**
 
 CSV attachments are automatically processed using n8n.
 
@@ -116,13 +116,13 @@ The workflow:
 - Converts raw data into JSON
 - Validates incoming data
 
-## **🗄 Step 3 — Database Loading**
+## **🗄 Step 3 - Database Loading**
 
 The extracted data is automatically inserted into PostgreSQL hosted on Supabase.
 
 Tables are populated without any manual intervention.
 
-## **🤖 Step 4 — AI-Powered Analytics**
+## **🤖 Step 4 - AI Powered Analytics**
 
 Quadratic AI connects directly to PostgreSQL to:
 

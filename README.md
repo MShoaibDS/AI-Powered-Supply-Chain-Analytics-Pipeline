@@ -66,9 +66,21 @@ Data Validation & Transformation
         │
         ▼
  Business Analytics
-```
 
----
+## **📊 Interactive Quadratic AI Dashboard**
+
+🔗 **View the live analytics workbook here:**
+
+### 👉 **[Open Quadratic Sheet](https://app.quadratichq.com/file/182db7d6-d89d-4226-ad14-144b22a791a5)**
+
+This live workbook showcases:
+
+- ✅ AI-powered data transformation
+- ✅ PostgreSQL (Supabase) integration
+- ✅ Automated KPI calculations
+- ✅ Supply Chain Analytics
+- ✅ SQL queries and business insights
+
 
 # **⚙️ Technology Stack**
 

@@ -161,34 +161,6 @@ This project delivers significant operational improvements by:
 - ✅ Created reusable enterprise automation workflows
 
 
-# **📁 Project Structure**
-
-AI-Powered-Supply-Chain-Analytics-Pipeline
-│
-├── README.md
-├── workflow/
-│     └── n8n-workflow.json
-│
-├── images/
-│     ├── workflow.png
-│     ├── gmail-trigger.png
-│     ├── csv-extraction.png
-│     ├── postgres-connection.png
-│     └── quadratic-connection.png
-│
-├── sql/
-│     └── database-schema.sql
-│
-├── prompts/
-│     └── quadratic-prompts.md
-│
-├── sample-data/
-│     └── sample-csv-files
-│
-└── docs/
-      └── architecture.pdf
-
-
 # **🚀 Key Features**
 
 - End-to-End ETL Pipeline
